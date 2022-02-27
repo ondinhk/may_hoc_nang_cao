@@ -1,0 +1,1 @@
+# Tìm ma trận C bằng cách thêm 1 cột -1 vào, sau đó nhân các phần tử với y tương ứng
